@@ -1,14 +1,14 @@
-package github_api.testcases;
+package github_api.tests;
 
-import io.restassured.response.Response;
 import org.testng.annotations.Test;
 
-public class testcase
+public class test
 {
 
     @Test
     public void fetchrepo()
     {
+
         System.out.println("this is sample Testcase");
 
     }
